@@ -1,6 +1,6 @@
 
 Flask==1.1.2
-gunicorn=19.9.0
+gunicorn==19.9.0
 Flask-Compress==1.5.0
 flask-ngrok==0.0.25
 jedi==0.17.2
